@@ -1,0 +1,7 @@
+{
+  "name": "lwh-hud",
+  "version": "0.0.1",
+  "dependencies": {
+    "reqwest": "^2.0.1"
+  }
+}
